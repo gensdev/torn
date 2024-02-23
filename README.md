@@ -1,2 +1,2 @@
 # torn
-PHP API Wrapper for torn.com 2024
+PHP API client package for torn.com 2024
